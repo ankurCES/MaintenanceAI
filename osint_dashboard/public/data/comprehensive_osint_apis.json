@@ -1,0 +1,76 @@
+{
+    "Aviation & Flight Tracking": [
+        {
+            "name": "OpenSky Network API",
+            "description": "Live airspace data including flights, aircraft states, and tracks. Free API (rate limited without registration).",
+            "url": "https://opensky-network.org/apidoc/",
+            "type": "REST API"
+        },
+        {
+            "name": "Aviation Edge",
+            "description": "Live flights, schedules, and aviation data. Offers a generous free tier.",
+            "url": "https://aviation-edge.com/",
+            "type": "REST API (Free Key)"
+        }
+    ],
+    "Maritime & Ship Tracking": [
+        {
+            "name": "AISHub API",
+            "description": "Crowdsourced AIS data sharing platform. If you feed data, you get the global feed for free. (Otherwise requires payment/API key).",
+            "url": "https://www.aishub.net/api",
+            "type": "REST API (Conditional Free)"
+        },
+        {
+            "name": "VesselFinder",
+            "description": "Provides some open limited search capabilities, but full APIs generally require paid keys. AIS data is notoriously closed behind commercial walls.",
+            "url": "https://www.vesselfinder.com/",
+            "type": "REST API (Commercial / Free Tier)"
+        }
+    ],
+    "Weather & Severe Alerts": [
+        {
+            "name": "Open-Meteo",
+            "description": "Completely open-source weather API. No API key required for non-commercial use.",
+            "url": "https://open-meteo.com/",
+            "type": "REST API (Open)"
+        },
+        {
+            "name": "US National Weather Service (NWS) API",
+            "description": "Free, open REST API for US weather alerts, forecasts, and radar.",
+            "url": "https://www.weather.gov/documentation/services-web-api",
+            "type": "REST API (Open)"
+        },
+        {
+            "name": "Global Disaster Alert and Coordination System (GDACS)",
+            "description": "UN & EU joint framework. Open GeoRSS feeds for earthquakes, tsunamis, floods, and cyclones globally.",
+            "url": "https://www.gdacs.org/xml/rss.xml",
+            "type": "GeoRSS"
+        }
+    ],
+    "Incidents & Crime Data": [
+        {
+            "name": "Global Incident Map",
+            "description": "Terrorism, hazmat, and global security incident reporting.",
+            "url": "https://www.globalincidentmap.com/",
+            "type": "Web / RSS"
+        },
+        {
+            "name": "USGS Earthquake Hazards API",
+            "description": "Real-time global earthquake data in GeoJSON format. Completely open.",
+            "url": "https://earthquake.usgs.gov/fdsnws/event/1/",
+            "type": "GeoJSON API (Open)"
+        },
+        {
+            "name": "SpotCrime",
+            "description": "Public crime data mapping for the US, UK, and parts of Canada. Has open RSS feeds for specific zip codes.",
+            "url": "https://spotcrime.com/",
+            "type": "RSS"
+        },
+        {
+            "name": "Police API (UK)",
+            "description": "Official open API for local crime and policing data in England, Wales, and Northern Ireland.",
+            "url": "https://data.police.uk/docs/",
+            "type": "REST API (Open)"
+        }
+    ]
+}

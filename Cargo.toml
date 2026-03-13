@@ -1,0 +1,20 @@
+[package]
+name = "maintenance_ai_backend"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+axum = "0.7.4"
+tokio = { version = "1.36", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+chrono = { version = "0.4", features = ["serde"] }
+async-trait = "0.1"
+redis = { version = "0.24", features = ["tokio-comp"] }
+# Using rskafka (pure rust) to avoid C-binding build issues on various host systems
+rskafka = "0.5"
+time = "0.3.47"
+config = "0.15.21"
+serde_yaml = "0.9.34"

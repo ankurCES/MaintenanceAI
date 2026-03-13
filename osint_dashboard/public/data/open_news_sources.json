@@ -1,0 +1,86 @@
+[
+    {
+        "name": "MediaStack API",
+        "description": "Global news data API covering 50+ countries. Generous free tier (500 requests/month).",
+        "url": "https://mediastack.com/",
+        "type": "REST API (Requires free Key)",
+        "scope": "Global"
+    },
+    {
+        "name": "NewsData.io",
+        "description": "Live breaking news API. Free tier allows 200 requests/day.",
+        "url": "https://newsdata.io/",
+        "type": "REST API (Requires free Key)",
+        "scope": "Global"
+    },
+    {
+        "name": "Currents API",
+        "description": "Latest news published in various languages. Free tier 600 requests/day.",
+        "url": "https://currentsapi.services/",
+        "type": "REST API (Requires free Key)",
+        "scope": "Global"
+    },
+    {
+        "name": "BBC News (UK)",
+        "description": "Public RSS feeds for BBC World and UK local news. Completely open.",
+        "url": "http://feeds.bbci.co.uk/news/rss.xml",
+        "type": "Open RSS",
+        "scope": "United Kingdom / Global"
+    },
+    {
+        "name": "NPR (USA)",
+        "description": "National Public Radio open RSS feeds.",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "type": "Open RSS",
+        "scope": "USA"
+    },
+    {
+        "name": "Al Jazeera (Qatar/Middle East)",
+        "description": "Al Jazeera English RSS feeds.",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "type": "Open RSS",
+        "scope": "Middle East / Global"
+    },
+    {
+        "name": "The Hindu (India)",
+        "description": "Open RSS feeds for Indian national news.",
+        "url": "https://www.thehindu.com/news/national/feeder/default.rss",
+        "type": "Open RSS",
+        "scope": "India"
+    },
+    {
+        "name": "ABC News (Australia)",
+        "description": "Australian Broadcasting Corporation RSS.",
+        "url": "https://www.abc.net.au/news/feed/51120/rss.xml",
+        "type": "Open RSS",
+        "scope": "Australia"
+    },
+    {
+        "name": "CBC News (Canada)",
+        "description": "Canadian Broadcasting Corporation top stories.",
+        "url": "https://www.cbc.ca/cmlink/rss-topstories",
+        "type": "Open RSS",
+        "scope": "Canada"
+    },
+    {
+        "name": "France24",
+        "description": "Global news from a European perspective.",
+        "url": "https://www.france24.com/en/rss",
+        "type": "Open RSS",
+        "scope": "France / Global"
+    },
+    {
+        "name": "New York Times Open API (Archive)",
+        "description": "NYT offers developers access to article search and top stories APIs.",
+        "url": "https://developer.nytimes.com/apis",
+        "type": "REST API (Requires free Key)",
+        "scope": "USA / Global"
+    },
+    {
+        "name": "The Guardian Open Platform",
+        "description": "The Guardian provides an open API for their entire archive and live news.",
+        "url": "https://open-platform.theguardian.com/",
+        "type": "REST API (Requires free Key)",
+        "scope": "UK / Global"
+    }
+]

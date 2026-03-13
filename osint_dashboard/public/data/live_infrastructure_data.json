@@ -1,0 +1,127 @@
+{
+    "earthquakes": [
+        {
+            "type": "Earthquake",
+            "title": "M 4.3 - 83 km SSW of Topolobampo, Mexico",
+            "magnitude": 4.3,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s3ju",
+            "time": "2026-03-10T22:28:19.005000"
+        },
+        {
+            "type": "Earthquake",
+            "title": "M 4.3 - western Xizang",
+            "magnitude": 4.3,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s3jt",
+            "time": "2026-03-10T22:22:57.073000"
+        },
+        {
+            "type": "Earthquake",
+            "title": "M 5.0 - 110 km WNW of Luwuk, Indonesia",
+            "magnitude": 5,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s3jg",
+            "time": "2026-03-10T21:12:13.489000"
+        },
+        {
+            "type": "Earthquake",
+            "title": "M 2.6 - 10 km ESE of Black Point-Green Point, CA",
+            "magnitude": 2.61,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75325622",
+            "time": "2026-03-10T19:42:20.440000"
+        },
+        {
+            "type": "Earthquake",
+            "title": "M 3.6 - 66 km SSE of Nikolski, Alaska",
+            "magnitude": 3.6,
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ewrnyf",
+            "time": "2026-03-10T19:13:00.428000"
+        }
+    ],
+    "disasters": [
+        {
+            "type": "Disaster Alert",
+            "title": "Green notification for tropical cyclone NURI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (9761 in Tropical Storm).",
+            "summary": "From 11/03/2026 to 11/03/2026, a Tropical Depression (maximum wind speed of 65 km/h) NURI-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimate...",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001263"
+        },
+        {
+            "type": "Disaster Alert",
+            "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in South Of Kermadec Islands 10/03/2026 23:51 UTC, No people affected in 100km.",
+            "summary": "On 3/10/2026 11:51:17 PM, an earthquake occurred in South Of Kermadec Islands potentially affecting No people affected in 100km. The earthquake had Magnitude 5.5M, Depth:10km....",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1528419"
+        },
+        {
+            "type": "Disaster Alert",
+            "title": "Green earthquake (Magnitude 6M, Depth:381.687km) in Italy 09/03/2026 23:03 UTC, 1.7 million in MMI III.",
+            "summary": "On 3/9/2026 11:03:54 PM, an earthquake occurred in Italy potentially affecting 1.7 million in MMI III. The earthquake had Magnitude 6M, Depth:381.687km....",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1528284"
+        },
+        {
+            "type": "Disaster Alert",
+            "title": "Green earthquake (Magnitude 5.9M, Depth:140.617km) in Japan 09/03/2026 15:45 UTC, 2.7 million in MMI IV.",
+            "summary": "On 3/9/2026 3:45:43 PM, an earthquake occurred in Japan potentially affecting 2.7 million in MMI IV. The earthquake had Magnitude 5.9M, Depth:140.617km....",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1528231"
+        },
+        {
+            "type": "Disaster Alert",
+            "title": "Green earthquake (Magnitude 5.9M, Depth:16km) in Russia 08/03/2026 17:08 UTC, 250 thousand in MMI>=III.",
+            "summary": "On 3/8/2026 5:08:43 PM, an earthquake occurred in Russia potentially affecting 250 thousand in MMI>=III. The earthquake had Magnitude 5.9M, Depth:16km....",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1528058"
+        }
+    ],
+    "flights": [
+        {
+            "type": "Flight",
+            "callsign": "SWR",
+            "country_of_origin": "Switzerland",
+            "longitude": 8.5633,
+            "latitude": 47.4417,
+            "velocity": 0,
+            "altitude": null
+        },
+        {
+            "type": "Flight",
+            "callsign": "HBJFR",
+            "country_of_origin": "Switzerland",
+            "longitude": 0.5957,
+            "latitude": 48.9609,
+            "velocity": 250.52,
+            "altitude": 12435.84
+        },
+        {
+            "type": "Flight",
+            "callsign": "DLH1319",
+            "country_of_origin": "Germany",
+            "longitude": 8.5473,
+            "latitude": 50.0375,
+            "velocity": 8.23,
+            "altitude": null
+        },
+        {
+            "type": "Flight",
+            "callsign": "DLH763",
+            "country_of_origin": "Germany",
+            "longitude": 16.5861,
+            "latitude": 47.0898,
+            "velocity": 241.75,
+            "altitude": 11475.72
+        },
+        {
+            "type": "Flight",
+            "callsign": "SWR17K",
+            "country_of_origin": "Switzerland",
+            "longitude": 1.8173,
+            "latitude": 48.7279,
+            "velocity": 203.63,
+            "altitude": 10066.02
+        }
+    ],
+    "weather": [
+        {
+            "type": "Weather",
+            "location": "Chicago, IL",
+            "temperature_celsius": 6.0,
+            "windspeed": 1.5,
+            "time": "2026-03-11T04:15"
+        }
+    ]
+}

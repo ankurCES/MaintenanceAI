@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+  ams-ai-bundle:
+    build: .
+    ports:
+      - "3000:3000"
+      - "3001:3001"
+      - "8080:8080"
+      - "8001:8001"

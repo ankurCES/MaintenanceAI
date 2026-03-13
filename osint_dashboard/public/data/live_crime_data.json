@@ -1,0 +1,220 @@
+{
+    "total_records": 20,
+    "incidents": [
+        {
+            "id": "UK_133248890",
+            "city": "London",
+            "country": "UK",
+            "category": "anti-social-behaviour",
+            "location": "On or near Ambrosden Avenue",
+            "latitude": "51.496508",
+            "longitude": "-0.139610",
+            "date": "2026-01",
+            "outcome": "Unknown"
+        },
+        {
+            "id": "UK_133251187",
+            "city": "London",
+            "country": "UK",
+            "category": "anti-social-behaviour",
+            "location": "On or near Shopping Area",
+            "latitude": "51.516618",
+            "longitude": "-0.139226",
+            "date": "2026-01",
+            "outcome": "Unknown"
+        },
+        {
+            "id": "UK_133251191",
+            "city": "London",
+            "country": "UK",
+            "category": "anti-social-behaviour",
+            "location": "On or near Hercules Road",
+            "latitude": "51.497269",
+            "longitude": "-0.114064",
+            "date": "2026-01",
+            "outcome": "Unknown"
+        },
+        {
+            "id": "UK_133255430",
+            "city": "London",
+            "country": "UK",
+            "category": "anti-social-behaviour",
+            "location": "On or near Pall Mall Place",
+            "latitude": "51.506270",
+            "longitude": "-0.137627",
+            "date": "2026-01",
+            "outcome": "Unknown"
+        },
+        {
+            "id": "UK_133251200",
+            "city": "London",
+            "country": "UK",
+            "category": "anti-social-behaviour",
+            "location": "On or near Ferry Terminal",
+            "latitude": "51.495035",
+            "longitude": "-0.121114",
+            "date": "2026-01",
+            "outcome": "Unknown"
+        },
+        {
+            "id": "CHI_14125067",
+            "city": "Chicago",
+            "country": "USA",
+            "category": "THEFT",
+            "description": "OVER $500",
+            "location": "001XX E 50TH ST",
+            "latitude": "41.803829327",
+            "longitude": "-87.622171439",
+            "date": "2026-03-02T00:00:00.000"
+        },
+        {
+            "id": "CHI_14125512",
+            "city": "Chicago",
+            "country": "USA",
+            "category": "THEFT",
+            "description": "THEFT FROM MOTOR VEHICLE",
+            "location": "062XX W FLETCHER ST",
+            "latitude": "41.937457995",
+            "longitude": "-87.781946088",
+            "date": "2026-03-02T00:00:00.000"
+        },
+        {
+            "id": "CHI_14126422",
+            "city": "Chicago",
+            "country": "USA",
+            "category": "OTHER OFFENSE",
+            "description": "HARASSMENT BY ELECTRONIC MEANS",
+            "location": "054XX S INGLESIDE AVE",
+            "latitude": "41.796039942",
+            "longitude": "-87.602751283",
+            "date": "2026-03-02T00:00:00.000"
+        },
+        {
+            "id": "CHI_14125595",
+            "city": "Chicago",
+            "country": "USA",
+            "category": "OTHER OFFENSE",
+            "description": "HARASSMENT BY ELECTRONIC MEANS",
+            "location": "086XX S EXCHANGE AVE",
+            "latitude": "41.73871167",
+            "longitude": "-87.552680462",
+            "date": "2026-03-02T00:00:00.000"
+        },
+        {
+            "id": "CHI_14125858",
+            "city": "Chicago",
+            "country": "USA",
+            "category": "BATTERY",
+            "description": "DOMESTIC BATTERY SIMPLE",
+            "location": "072XX S LOWE AVE",
+            "latitude": "41.762977258",
+            "longitude": "-87.640033382",
+            "date": "2026-03-02T00:00:00.000"
+        },
+        {
+            "id": "LA_252004250",
+            "city": "Los Angeles",
+            "country": "USA",
+            "category": "DOCUMENT FORGERY / STOLEN FELONY",
+            "location": "1100 S  WESTMORELAND                 AV",
+            "latitude": "34.0508",
+            "longitude": "-118.2891",
+            "date": "2025-03-28T00:00:00.000"
+        },
+        {
+            "id": "LA_252004244",
+            "city": "Los Angeles",
+            "country": "USA",
+            "category": "EMBEZZLEMENT, GRAND THEFT ($950.01 & OVER)",
+            "location": "1800 W  WASHINGTON                   BL",
+            "latitude": "34.04",
+            "longitude": "-118.2974",
+            "date": "2025-03-17T00:00:00.000"
+        },
+        {
+            "id": "LA_252004245",
+            "city": "Los Angeles",
+            "country": "USA",
+            "category": "EXTORTION",
+            "location": "700 S  HOBART                       BL",
+            "latitude": "34.0597",
+            "longitude": "-118.3053",
+            "date": "2025-03-17T00:00:00.000"
+        },
+        {
+            "id": "LA_251404291",
+            "city": "Los Angeles",
+            "country": "USA",
+            "category": "THEFT PLAIN - PETTY ($950 & UNDER)",
+            "location": "LINCOLN",
+            "latitude": "33.9676",
+            "longitude": "-118.4276",
+            "date": "2025-03-16T00:00:00.000"
+        },
+        {
+            "id": "LA_251404290",
+            "city": "Los Angeles",
+            "country": "USA",
+            "category": "BURGLARY FROM VEHICLE",
+            "location": "3600    JASMINE                      AV",
+            "latitude": "34.026",
+            "longitude": "-118.4052",
+            "date": "2025-03-16T00:00:00.000"
+        },
+        {
+            "id": "NY_318207927",
+            "city": "New York",
+            "country": "USA",
+            "category": "DANGEROUS DRUGS",
+            "description": "CONTROLLED SUBSTANCE,POSSESS.",
+            "location": "BRONX",
+            "latitude": "40.871814",
+            "longitude": "-73.864259",
+            "date": "2025-12-31T00:00:00.000"
+        },
+        {
+            "id": "NY_318207517",
+            "city": "New York",
+            "country": "USA",
+            "category": "INTOXICATED & IMPAIRED DRIVING",
+            "description": "INTOXICATED DRIVING,ALCOHOL",
+            "location": "BRONX",
+            "latitude": "40.87077786",
+            "longitude": "-73.8862279",
+            "date": "2025-12-31T00:00:00.000"
+        },
+        {
+            "id": "NY_318187460",
+            "city": "New York",
+            "country": "USA",
+            "category": "PETIT LARCENY",
+            "description": "LARCENY,PETIT FROM STORE-SHOPL",
+            "location": "BRONX",
+            "latitude": "40.865468",
+            "longitude": "-73.865873",
+            "date": "2025-12-31T00:00:00.000"
+        },
+        {
+            "id": "NY_318196591",
+            "city": "New York",
+            "country": "USA",
+            "category": "MISCELLANEOUS PENAL LAW",
+            "description": "CRIMINAL CONTEMPT 1",
+            "location": "MANHATTAN",
+            "latitude": "40.867857",
+            "longitude": "-73.919086",
+            "date": "2025-12-31T00:00:00.000"
+        },
+        {
+            "id": "NY_318207518",
+            "city": "New York",
+            "country": "USA",
+            "category": "SEX CRIMES",
+            "description": "CHILD, ENDANGERING WELFARE",
+            "location": "BRONX",
+            "latitude": "40.8694704770483",
+            "longitude": "-73.8798608037303",
+            "date": "2025-12-31T00:00:00.000"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+redis>=5.0.1
+confluent-kafka>=2.3.0
+pyyaml>=6.0.1
+requests>=2.31.0
+pydantic>=2.5.3
+google-genai>=0.3.0
+fastapi>=0.109.2
+uvicorn>=0.27.1
