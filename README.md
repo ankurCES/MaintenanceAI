@@ -121,5 +121,12 @@ The central `config.yaml` governs the behavior of the AI heuristics:
 - `heuristics.context_window_size`: Determines how many chronological logs the AI sees prior to a crash (Default: 50).
 - `heuristics.trigger_levels`: Which log severities immediately dispatch to the LLM (e.g., `ERROR`, `FATAL`).
 
+## Screenshots
+
+![Observability Dashboard](https://github.com/ankurCES/MaintenanceAI/blob/main/screenshots/Screenshot%202026-03-13%20at%202.29.47%E2%80%AFPM.png#:~:text=Screenshot,-2026%2D03%2D13%20at%202.29.47%E2%80%AFPM.png)
+![Log Details]([image-url](https://github.com/ankurCES/MaintenanceAI/blob/main/screenshots/Screenshot%202026-03-13%20at%202.30.03%E2%80%AFPM.png#:~:text=Screenshot,-2026%2D03%2D13%20at%202.30.03%E2%80%AFPM.png))
+![Chat](https://github.com/ankurCES/MaintenanceAI/blob/main/screenshots/Screenshot%202026-03-13%20at%202.30.33%E2%80%AFPM.png)
+![Sample Application](https://github.com/ankurCES/MaintenanceAI/tree/main/screenshots)
+
 ## 🛡️ License
 MIT License. See [LICENSE](LICENSE) for more details.
